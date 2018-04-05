@@ -1,5 +1,5 @@
 
-Project 5: Deep Classification
+# Deep Classification
 
 ## Overview
 ------
