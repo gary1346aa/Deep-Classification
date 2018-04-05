@@ -4,7 +4,7 @@
 ## Overview
 ------
 The project is related to object classification, which we'll implement a classifier on cifar-10 dataset using some deep learning skills.
-
+For more info, see https://github.com/gary1346aa/Deep-Classification/blob/master/Brief.md
 
 ```python
 import time
